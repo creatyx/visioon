@@ -1,0 +1,27 @@
+{
+    "footer": {
+        "about": "&ldquo;Une entreprise doit courir deux fois plus vite que ses concurrents.&rdquo;",
+        "rights_reserved": "Tous droits réservés"
+    },
+    "menu": {
+        "about_us": "A propos",
+        "blog": "Blog",
+        "company": "Entreprise",
+        "contact": "Contact",
+        "docs": "Docs",
+        "features": "Fonctionalités",
+        "legal": "Légal",
+        "more": "Et aussi",
+        "more_blog_help": "Apprenez des astuces, mises à jour de produits et informations du marché.",
+        "prices": "Tarifs",
+        "privacy": "Privacité",
+        "status": "Statut",
+        "support": "Support",
+        "terms": "Conditions"
+    },
+    "last_posts": {
+        "title": "Derniers articles",
+        "content": ""
+    },
+    "read-more": "Lire la suite"
+}

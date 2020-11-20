@@ -1,0 +1,27 @@
+{
+    "footer": {
+        "about": "&ldquo;A company must run faster than its competition.&rdquo;",
+        "rights_reserved": "All rights reserved"
+    },
+    "menu": {
+        "about_us": "About",
+        "blog": "Blog",
+        "company": "Company",
+        "contact": "Contact",
+        "docs": "Docs",
+        "features": "Features",
+        "legal": "Legal",
+        "more": "More",
+        "more_blog_help": "Learn about tips, product updates and company culture.",
+        "prices": "Prices",
+        "privacy": "Privacy",
+        "status": "Status",
+        "support": "Support",
+        "terms": "Terms"
+    },
+    "last_posts": {
+        "title": "From the blog",
+        "content": ""
+    },
+    "read-more": "Read more"
+}

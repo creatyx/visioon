@@ -1,0 +1,29 @@
+{
+  "name": "visioon",
+  "description": "Site institutionnel de Visioon",
+  "author": "Julien Devergnies",
+  "scripts": {
+    "dev": "nuxt",
+    "build": "nuxt build",
+    "generate": "nuxt generate",
+    "start": "nuxt start",
+    "deploy": "push-dir --dir=dist --branch=gh-pages --cleanup"
+  },
+  "dependencies": {
+    "@nuxt/content": "^1.11.0",
+    "@nuxtjs/robots": "^2.4.2",
+    "bootstrap-vue": "^2.19.0",
+    "date-fns": "^2.16.1",
+    "nuxt": "^2.14.7",
+    "nuxt-matomo": "^1.2.3",
+    "push-dir": "^0.4.1",
+    "vue-carousel": "^0.18.0",
+    "vue-owl-carousel": "^2.0.3"
+  },
+  "devDependencies": {
+    "@nuxt/components": "^1.1.1",
+    "@nuxtjs/pwa": "^3.2.2",
+    "node-sass": "^5.0.0",
+    "sass-loader": "^10.1.0"
+  }
+}

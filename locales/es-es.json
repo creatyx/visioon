@@ -1,0 +1,27 @@
+{
+    "footer": {
+        "about": "&ldquo;Una empresa debe correr mas rapidamente que sus competidores.&rdquo;",
+        "rights_reserved": "Todos derechos reservados"
+    },
+    "menu": {
+        "about_us": "Sobre nosotros",
+        "blog": "Blog",
+        "company": "Empresa",
+        "contact": "Contacto",
+        "docs": "Docs",
+        "features": "Caracteristicas",
+        "legal": "Legal",
+        "more": "Y también",
+        "more_blog_help": "Enterate de tips, actualizaciones de productos e información del mercado.",
+        "prices": "Precios",
+        "privacy": "Privacidad",
+        "status": "Estado",
+        "support": "Soporte",
+        "terms": "Condiciones"
+    },
+    "last_posts": {
+        "title": "Últimos articulos",
+        "content": ""
+    },
+    "read-more": "Ver más"
+}
